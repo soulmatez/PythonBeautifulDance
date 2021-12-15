@@ -20,3 +20,6 @@ from fake_useragent import UserAgent
 
 # 更多访问you-get官网
 # https://blog.csdn.net/dreamer0823/article/details/89438512
+
+# 词云制作
+# https://mp.weixin.qq.com/s/ZAYb7rjS5-kOFUsY2PAA5Q
