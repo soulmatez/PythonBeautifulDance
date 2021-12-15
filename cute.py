@@ -7,9 +7,9 @@ from aip import AipBodyAnalysis
 import time
 import random
 
-APP_ID = '25339309'
-API_KEY = 'f4p0d0PRbHClqax6cz2O6LNM'
-SECRET_KEY = 'yQ9yv28QtMRtT8eCXMhCut86eynbYCeP'
+APP_ID = '****'
+API_KEY = '****'
+SECRET_KEY = '****'
 
 client = AipBodyAnalysis(APP_ID, API_KEY, SECRET_KEY)
 # 保存图像分割后的路径
